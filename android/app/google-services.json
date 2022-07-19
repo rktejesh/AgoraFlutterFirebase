@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "564757927514",
+    "project_id": "astroadmin-366d8",
+    "storage_bucket": "astroadmin-366d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564757927514:android:0f86f04a24eb1ccad86a63",
+        "android_client_info": {
+          "package_name": "com.agora.videocall.youtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564757927514-57ddnapsoe530b3he79ce4nh2ngqk08l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agora.videocall.youtube",
+            "certificate_hash": "716c26e610ad862dbabe2d51715a0b3e2677a719"
+          }
+        },
+        {
+          "client_id": "564757927514-k8o64p2rasl65f811a5r0aa7vo4dpfrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agora.videocall.youtube",
+            "certificate_hash": "0e6fc7f059ae3a69b6877e51fa70ec524a9c2154"
+          }
+        },
+        {
+          "client_id": "564757927514-41qett6haq585nacc0pehcauhb8be1p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ2Qj15fBXU4Z4G6W8yzQ-IHJa5G6MbB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564757927514-41qett6haq585nacc0pehcauhb8be1p7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "564757927514-e4blgi1qbvbiq0bl0hefui73j5sj0fbt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vidcall.tws.youtube"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564757927514:android:e6ffd3e15c5113a6d86a63",
+        "android_client_info": {
+          "package_name": "com.example.astroadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564757927514-jsueb78smh5e00qqg5avf37je0lk2r5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.astroadmin",
+            "certificate_hash": "716c26e610ad862dbabe2d51715a0b3e2677a719"
+          }
+        },
+        {
+          "client_id": "564757927514-ttco4che2c3ariohs3dp16133k7v7koj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.astroadmin",
+            "certificate_hash": "0e6fc7f059ae3a69b6877e51fa70ec524a9c2154"
+          }
+        },
+        {
+          "client_id": "564757927514-41qett6haq585nacc0pehcauhb8be1p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ2Qj15fBXU4Z4G6W8yzQ-IHJa5G6MbB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564757927514-41qett6haq585nacc0pehcauhb8be1p7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "564757927514-e4blgi1qbvbiq0bl0hefui73j5sj0fbt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vidcall.tws.youtube"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
